@@ -138,8 +138,5 @@ Use [Postman](https://www.postman.com/) or other API tools to test the following
 2. **Combine Rules Form**
    ![Combine Rules](https://example.com/combine-rules-screenshot)
 
-## Contributing
-
-Feel free to submit issues and pull requests to help improve the project. Contributions are always welcome!
 
 
