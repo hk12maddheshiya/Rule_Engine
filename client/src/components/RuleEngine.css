@@ -1,0 +1,54 @@
+/* client/src/components/RuleEngine.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #424141;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #4c4faf;
+}
+
+form div, form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+form input[type="text"], form textarea, form select {
+    width: calc(100% - 18px);
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+form button {
+    width: 100%;
+    padding: 8px;
+    margin-top: 10px;
+    background-color: #4c4faf;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+pre {
+    background-color: #f4f4f9;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    word-wrap: break-word;
+}
